@@ -1,0 +1,6 @@
+# dependencies
+/VOCdevkit
+/__pycache__
+
+# testing
+/processed_data
