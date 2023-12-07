@@ -87,7 +87,7 @@ def preprocess_dataset(data_folder, output_folder):
 
 
 if __name__ == "__main__":
-    data_folder = r"C:/Users/HP/Downloads/Next/pythonproject/VOCdevkit/VOCdevkit/VOC2012"
+    data_folder = r"VOCdevkit/VOC2012"
     output_folder = "processed_data"  # Adjust this based on your desired output path
 
     preprocess_dataset(data_folder, output_folder)
